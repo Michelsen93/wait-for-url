@@ -1,0 +1,11 @@
+{
+  "name": "wait-for-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
+
